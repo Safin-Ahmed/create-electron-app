@@ -1,6 +1,6 @@
 {
-  "appId": "com.safin-ahmed.electron-typescript-vite-starter",
-  "productName": "Electron Typescript Vite Starter",
+  "appId": "com.safin-ahmed.create-electron-app",
+  "productName": "Create Electron App",
   "files": ["dist-electron", "dist-react"],
   "extraResources": ["dist-electron/preload.cjs", "src/assets/**"],
   "icon": "./app-icon.png",
