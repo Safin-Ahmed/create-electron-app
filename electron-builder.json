@@ -1,0 +1,15 @@
+{
+  "appId": "com.safin-ahmed.electron-typescript-vite-starter",
+  "productName": "Electron Typescript Vite Starter",
+  "files": ["dist-electron", "dist-react"],
+  "extraResources": ["dist-electron/preload.cjs", "src/assets/**"],
+  "icon": "./app-icon.png",
+  "mac": { "target": "dmg" },
+  "linux": {
+    "target": "AppImage",
+    "category": "Utility"
+  },
+  "win": {
+    "target": ["portable", "msi"]
+  }
+}
