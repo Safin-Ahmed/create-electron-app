@@ -1,6 +1,6 @@
 {
-  "appId": "com.safin-ahmed.create-electron-app",
-  "productName": "Create Electron App",
+  "appId": "com.safin-ahmed.create-electron-kit",
+  "productName": "Create Electron Kit",
   "files": ["dist-electron", "dist-react"],
   "extraResources": ["dist-electron/preload.cjs", "src/assets/**"],
   "icon": "./app-icon.png",

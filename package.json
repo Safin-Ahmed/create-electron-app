@@ -1,5 +1,5 @@
 {
-  "name": "create-electron-app",
+  "name": "create-electron-kit",
   "version": "1.0.0",
   "type": "module",
   "main": "dist-electron/main.js",
@@ -44,7 +44,7 @@
     "vite": "^5.4.1"
   },
   "bin": {
-    "create-electron-app": "./bin/index.js"
+    "create-electron-kit": "./bin/index.cjs"
   },
   "files": [
     "bin"
